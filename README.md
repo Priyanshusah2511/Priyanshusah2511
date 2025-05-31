@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Priyanshusah2511
-- 👀 I’m interested in Frontend Developer
-- 🌱 I’m currently learning Web Development
+- 👀 I’m interested in Java Developer
+- 🌱 I’m currently learning Java Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kumarpriyanshu77828@gmail.com
 - 😄 Pronouns: ...
