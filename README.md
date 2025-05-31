@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Priyanshusah2511
-- 👀 I’m interested in Java Developer
+- 👀 I’m interested in Cricket
 - 🌱 I’m currently learning Java Development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on any project regarding java.
 - 📫 How to reach me kumarpriyanshu77828@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
 <!---
